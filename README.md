@@ -135,7 +135,7 @@ contoh :
 
 5. _Teks Dicoret_
 
-Caranya adalah menggunakan baik tag <s> <s> atau strikethrough mau pun tag <del> <del> atau delete.
+Caranya adalah menggunakan tag <del><del> delete.
 contoh:
 ```html
 <h1>Terkadang kita butuh untuk mencoret <s>sesuatu</s></h1>
