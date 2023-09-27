@@ -202,13 +202,13 @@ Kemudian tambahkan tag img setelah paragraf yang kedua, dengan menambahkan headi
 <img src="Logo_UPB.png" title="Logo Univeritas Pelita Bangsa">
 ```
 
-![image](ss/ss12.png)
+![image](ss/SS12.png)
 
 
 Simpan perubahannya, kemudian refresh browser.
 
 
-![image](ss/ss11.png)
+![image](ss/SS11.png)
 
 
 Gambar akan ditampilkan apa adanya sesuai dengan ukuran aslinya. Untuk mengatur ukuran gambar, dapat digunakan atribut witdh dan height dengan nilai integer yang disesuaikan.
@@ -219,13 +219,13 @@ Gambar akan ditampilkan apa adanya sesuai dengan ukuran aslinya. Untuk mengatur 
 ```
 
 
-![image](ss/ss14.png)
+![image](ss/SS14.png)
 
 
 hasilnya :
 
 
-![image](ss/ss13.png)
+![image](ss/SS13.png)
 
 
 ### 5. Menambahkan Hyperlink
@@ -242,30 +242,30 @@ Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut.
 
 ```
 
-![image](ss/ss16.png)
+![image](ss/SS16.png)
 
 
 hasilnya :
 
 
-![image](ss/ss15.png)
+![image](ss/SS15.png)
 
 
 Buat satu file lagi dengan nama lab1_halaman2.html kemudian isi dokumen tersebut dengan tag html dasar dan dengan isi bebas, boleh mengcopy dari halaman sebelumnya.
 
 
-![image](ss/ss18.png)
+![image](ss/SS18.png)
 
 
 hasilnya saat di klik hyperlink di halaman1 muncul halaman2 yang telah dibuat.
 
 
-![image](ss/ss17.png)
+![image](ss/SS17.png)
 
 
 lalu jika di klik HalamanWebEksternalGoogle akan muncul seperti ini :
 
-![image](ss/ss21.png)
+![image](ss/SS21.png)
 
 
 ### JAWAB PERTANYAAN BERIKUT :
@@ -277,7 +277,7 @@ JAWAB :
 
 Saya melakukan perubahan kode berikut :
 
-![image](ss/ss20.png)
+![image](ss/SS20.png)
 
 
 dapat dilihat tulisan aligin berwarna merah berarti eror.
@@ -286,7 +286,7 @@ dapat dilihat tulisan aligin berwarna merah berarti eror.
 kemudian setelah diperbaiki menjadi seperti ini :
 
 
-![image](ss/ss7.png)
+![image](ss/SS7.png)
 
 
 sekarang sudah tidak ada yang eror lagi :)
