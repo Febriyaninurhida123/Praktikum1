@@ -190,7 +190,7 @@ berikut hasilnya :
 ### 4. Menyisipkan Gambar
 Untuk menyisipkan gmbar, siapkan gambar yang akan disisipkan pada halaman web, kemudian simpan file gambar tersebut satu folder dengan file dokumen html. Atau bisa juga menyisipkan gambar dari website external.
 
-![image](ss/ss24.png)
+![image](ss/SS24.png)
 
 
 Kemudian tambahkan tag img setelah paragraf yang kedua, dengan menambahkan heading 3 sebelumnya.
