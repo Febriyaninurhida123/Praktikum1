@@ -74,7 +74,7 @@ Kemudian tambahkan judul h1 sebelum paragraf pertama dan tambahkan sub judul h2 
 1. _Teks Stabilo (Marker)_
 
 kita bisa membuat sebuah marker atau penanda terhadap sebuah kalimat yang penting seakan-akan kita menggunakan stabilo.
-Untuk melakukannya kita bisa menggunakan tag <mark><mark>.
+Untuk melakukannya kita bisa menggunakan tag mark.
 
 contoh :
 ```html
@@ -89,8 +89,8 @@ contoh :
 2. _Teks Tebal_
 
 Untuk membuat teks menjadi cetak tebal kita bisa menggunakan dua buah tag:
-Tag <b></b>
-dan tag <strong></strong>
+Tag b
+dan tag strong
 Keduanya akan mengubah teks apa pun menjadi tercetak tebal.
 contoh : 
 ```html
@@ -108,8 +108,8 @@ contoh :
 
 3. _Teks Miring_
 
-Untuk membuat sebuah teks menjadi miring, kita bisa menggunakan tag baik tag <i><i> atau tag <em><em>.
-Tag <i><i> untuk italic dan tag <em><em> untuk emphasis (penegasan).
+Untuk membuat sebuah teks menjadi miring, kita bisa menggunakan tag baik tag i  atau tag em
+Tag i untuk italic dan tag em untuk emphasis (penegasan).
 contoh:
 ```html
 <h1><i>Teks ini adalah teks italic biasa</i></h1>
@@ -118,7 +118,7 @@ contoh:
 
 4. _Teks Garis Bawah_
 
-Untuk melakukannya kita bisa menggunakan baik tag <u><u> yang bermakna underline, atau tag <ins><ins> yang bermakna insert.
+Untuk melakukannya kita bisa menggunakan baik tag u yang bermakna underline, atau tag ins  yang bermakna insert.
 contoh :
 ```html
 <p>
@@ -135,7 +135,7 @@ contoh :
 
 5. _Teks Dicoret_
 
-Caranya adalah menggunakan tag <del><del> delete.
+Caranya adalah menggunakan tag del yang bermakna delete.
 contoh:
 ```html
 <h1>Terkadang kita butuh untuk mencoret <s>sesuatu</s></h1>
@@ -145,7 +145,7 @@ contoh:
 ```
 6. _Teks Kecil_
 
-Untuk melakukannya kita bisa menggunakan tag <small><small>.
+Untuk melakukannya kita bisa menggunakan tag small.
 contoh:
 ```html
 <h2>Aku adalah <small>sebuah judul</small></h2>
@@ -162,7 +162,7 @@ contoh:
 
 kita bisa membuat format teks pangkat dengan HTML. Baik pangkat atas mau pun pangkat bawah.
 
-Untuk pangkat atas kita bisa menggunakan tag <sup><sup>, sedangkan pangkat bawah bisa menggunakan tag <sub><sub>.
+Untuk pangkat atas kita bisa menggunakan tag sup, sedangkan pangkat bawah bisa menggunakan tag sub.
 contoh :
 ```html
 <h2>satu pangkat <sup>dua</sup></h2>
