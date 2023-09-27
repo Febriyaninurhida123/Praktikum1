@@ -254,18 +254,18 @@ hasilnya :
 Buat satu file lagi dengan nama lab1_halaman2.html kemudian isi dokumen tersebut dengan tag html dasar dan dengan isi bebas, boleh mengcopy dari halaman sebelumnya.
 
 
-![image](ss/SS18.png)
+![image](ss/ss18.png)
 
 
 hasilnya saat di klik hyperlink di halaman1 muncul halaman2 yang telah dibuat.
 
 
-![image](ss/SS17.png)
+![image](ss/ss17.png)
 
 
 lalu jika di klik HalamanWebEksternalGoogle akan muncul seperti ini :
 
-![image](ss/SS21.png)
+![image](ss/ss21.png)
 
 
 ### JAWAB PERTANYAAN BERIKUT :
@@ -277,7 +277,7 @@ JAWAB :
 
 Saya melakukan perubahan kode berikut :
 
-![image](ss/SS20.png)
+![image](SS/ss20.png)
 
 
 dapat dilihat tulisan aligin berwarna merah berarti eror.
@@ -286,7 +286,7 @@ dapat dilihat tulisan aligin berwarna merah berarti eror.
 kemudian setelah diperbaiki menjadi seperti ini :
 
 
-![image](ss/SS7.png)
+![image](SS/ss5.png)
 
 
 sekarang sudah tidak ada yang eror lagi :)
