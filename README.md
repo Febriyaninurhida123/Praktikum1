@@ -2,15 +2,15 @@
 ## Langkah-Langkah Praktikum
 
 Persiapan membuka VSCode dengan Browser.
-[image](ss/ss22.png) 
+![image](ss/ss22.png) 
 
 
 Kemudian buat file baru dengan nama lab1_tag_dasar.html dan tambahkan tag dasar dokumen HTML.
-[image](ss/ss23.png) 
+![image](ss/ss23.png) 
 
 
 Kemudian selanjutnya, buka file tersebut pada web browser misalnya Mozilla Firefox.
-[image](ss/ss1.png) 
+![image](ss/ss1.png) 
 
 
 ### 1. Membuat Parafraf
@@ -27,11 +27,11 @@ mendukung sehingga menjadi satu kesatuan. Paragraf dibuat dengan menggunakan
 tag dasar html.</p>
 ```
 
-[image](ss/ss19.png) 
+![image](ss/ss19.png) 
 
 Selanjutnya simpan kembali perubahannya, dan lakukan refresh pada web browser, lihat hasilnya.
 
-[image](ss/ss2.png) 
+![image](ss/ss2.png) 
 
 
 Kemudian atur atribut paragraf seperti berikut, dan amati perubahanya.
@@ -50,7 +50,7 @@ dengan menggunakan tag dasar html.</p>
 Simpan kembali dan amati perubahannya dengan melakukan refresh pada web browser. 
 Selanjutnya silakan ubah-ubah nilai atributnya (align => justify, left, right, dan center) untuk melihat perbedaan lainnya. 
 
-[image](ss/ss8.png)
+![image](ss/ss8.png)
 
 
 ### 2. Menambahkan Judul
@@ -64,16 +64,16 @@ Kemudian tambahkan judul h1 sebelum paragraf pertama dan tambahkan sub judul h2 
 <h2>Paragraf pada HTML</h2>
 ```
 
-[image](ss/ss5.png)
+![image](ss/ss5.png)
 
 
-[image](ss/ss6.png)
+![image](ss/ss6.png)
 
 
 ### 3. Memformat teks
 1. _Teks Stabilo (Marker)_
 kita bisa membuat sebuah marker atau penanda terhadap sebuah kalimat yang penting seakan-akan kita menggunakan stabilo.
-Untuk melakukannya kita bisa menggunakan tag <mark>.
+Untuk melakukannya kita bisa menggunakan tag <mark><mark>.
 
 contoh :
 ```html
@@ -105,8 +105,8 @@ contoh :
 ```
 
 3. _Teks Miring_
-Untuk membuat sebuah teks menjadi miring, kita bisa menggunakan tag baik tag <i> atau tag <em>.
-Tag <i> untuk italic dan tag <em> untuk emphasis (penegasan).
+Untuk membuat sebuah teks menjadi miring, kita bisa menggunakan tag baik tag <i><i> atau tag <em><em>.
+Tag <i><i> untuk italic dan tag <em><em> untuk emphasis (penegasan).
 contoh:
 ```html
 <h1><i>Teks ini adalah teks italic biasa</i></h1>
@@ -114,7 +114,7 @@ contoh:
 ```
 
 4. _Teks Garis Bawah_
-Untuk melakukannya kita bisa menggunakan baik tag <u> yang bermakna underline, atau tag <ins> yang bermakna insert.
+Untuk melakukannya kita bisa menggunakan baik tag <u><u> yang bermakna underline, atau tag <ins><ins> yang bermakna insert.
 contoh :
 ```html
 <p>
@@ -130,7 +130,7 @@ contoh :
 ```
 
 5. _Teks Dicoret_
-Caranya adalah menggunakan baik tag <s> atau strikethrough mau pun tag <del> atau delete.
+Caranya adalah menggunakan baik tag <s><s> atau strikethrough mau pun tag <del><del> atau delete.
 contoh:
 ```html
 <h1>Terkadang kita butuh untuk mencoret <s>sesuatu</s></h1>
@@ -140,7 +140,7 @@ contoh:
 ```
 
 6. _Teks Kecil_
-Untuk melakukannya kita bisa menggunakan tag <small>.
+Untuk melakukannya kita bisa menggunakan tag <small><small>.
 contoh:
 ```html
 <h2>Aku adalah <small>sebuah judul</small></h2>
@@ -156,7 +156,7 @@ contoh:
 7. _Teks Pangkat_
 kita bisa membuat format teks pangkat dengan HTML. Baik pangkat atas mau pun pangkat bawah.
 
-Untuk pangkat atas kita bisa menggunakan tag <sup>, sedangkan pangkat bawah bisa menggunakan tag <sub>.
+Untuk pangkat atas kita bisa menggunakan tag <sup><sup>, sedangkan pangkat bawah bisa menggunakan tag <sub><sub>.
 contoh :
 ```html
 <h2>satu pangkat <sup>dua</sup></h2>
@@ -173,18 +173,18 @@ contoh :
 </p>
 ```
 
-[image](ss/ss10.png)
+![image](ss/ss10.png)
 
 
 berikut hasilnya :
 
-[image](ss/ss9.png)
+![image](ss/ss9.png)
 
 
 ### 4. Menyisipkan Gambar
 Untuk menyisipkan gmbar, siapkan gambar yang akan disisipkan pada halaman web, kemudian simpan file gambar tersebut satu folder dengan file dokumen html. Atau bisa juga menyisipkan gambar dari website external.
 
-[image](ss/ss24.png)
+![image](ss/ss24.png)
 
 
 Kemudian tambahkan tag img setelah paragraf yang kedua, dengan menambahkan heading 3 sebelumnya.
@@ -196,13 +196,13 @@ Kemudian tambahkan tag img setelah paragraf yang kedua, dengan menambahkan headi
 <img src="Logo_UPB.png" title="Logo Univeritas Pelita Bangsa">
 ```
 
-[image](ss/ss12.png)
+![image](ss/ss12.png)
 
 
 Simpan perubahannya, kemudian refresh browser.
 
 
-[image](ss/ss11.png)
+![image](ss/ss11.png)
 
 
 Gambar akan ditampilkan apa adanya sesuai dengan ukuran aslinya. Untuk mengatur ukuran gambar, dapat digunakan atribut witdh dan height dengan nilai integer yang disesuaikan.
@@ -213,13 +213,13 @@ Gambar akan ditampilkan apa adanya sesuai dengan ukuran aslinya. Untuk mengatur 
 ```
 
 
-[image](ss/ss14.png)
+![image](ss/ss14.png)
 
 
 hasilnya :
 
 
-[image](ss/ss13.png)
+![image](ss/ss13.png)
 
 
 ### 5. Menambahkan Hyperlink
@@ -236,30 +236,30 @@ Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut.
 
 ```
 
-[image](ss/ss16.png)
+![image](ss/ss16.png)
 
 
 hasilnya :
 
 
-[image](ss/ss15.png)
+![image](ss/ss15.png)
 
 
 Buat satu file lagi dengan nama lab1_halaman2.html kemudian isi dokumen tersebut dengan tag html dasar dan dengan isi bebas, boleh mengcopy dari halaman sebelumnya.
 
 
-[image](ss/ss18.png)
+![image](ss/ss18.png)
 
 
 hasilnya saat di klik hyperlink di halaman1 muncul halaman2 yang telah dibuat.
 
 
-[image](ss/ss17.png)
+![image](ss/ss17.png)
 
 
 lalu jika di klik HalamanWebEksternalGoogle akan muncul seperti ini :
 
-[image](ss/ss21.png)
+![image](ss/ss21.png)
 
 
 ### JAWAB PERTANYAAN BERIKUT :
@@ -271,7 +271,7 @@ JAWAB :
 
 Saya melakukan perubahan kode berikut :
 
-[image](ss/ss20.png)
+![image](ss/ss20.png)
 
 
 dapat dilihat tulisan aligin berwarna merah berarti eror.
@@ -280,7 +280,7 @@ dapat dilihat tulisan aligin berwarna merah berarti eror.
 kemudian setelah diperbaiki menjadi seperti ini :
 
 
-[image](ss/ss7.png)
+![image](ss/ss7.png)
 
 
 sekarang sudah tidak ada yang eror lagi :)
