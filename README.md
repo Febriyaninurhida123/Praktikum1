@@ -277,7 +277,7 @@ JAWAB :
 
 Saya melakukan perubahan kode berikut :
 
-![image](SS/ss20.png)
+![image](ss/ss20.png)
 
 
 dapat dilihat tulisan aligin berwarna merah berarti eror.
@@ -286,7 +286,7 @@ dapat dilihat tulisan aligin berwarna merah berarti eror.
 kemudian setelah diperbaiki menjadi seperti ini :
 
 
-![image](SS/ss5.png)
+![image](ss/ss5.png)
 
 
 sekarang sudah tidak ada yang eror lagi :)
