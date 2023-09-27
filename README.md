@@ -72,6 +72,7 @@ Kemudian tambahkan judul h1 sebelum paragraf pertama dan tambahkan sub judul h2 
 
 ### 3. Memformat teks
 1. _Teks Stabilo (Marker)_
+
 kita bisa membuat sebuah marker atau penanda terhadap sebuah kalimat yang penting seakan-akan kita menggunakan stabilo.
 Untuk melakukannya kita bisa menggunakan tag <mark><mark>.
 
@@ -86,6 +87,7 @@ contoh :
 ```
 
 2. _Teks Tebal_
+
 Untuk membuat teks menjadi cetak tebal kita bisa menggunakan dua buah tag:
 Tag <b></b>
 dan tag <strong></strong>
@@ -105,6 +107,7 @@ contoh :
 ```
 
 3. _Teks Miring_
+
 Untuk membuat sebuah teks menjadi miring, kita bisa menggunakan tag baik tag <i><i> atau tag <em><em>.
 Tag <i><i> untuk italic dan tag <em><em> untuk emphasis (penegasan).
 contoh:
@@ -114,6 +117,7 @@ contoh:
 ```
 
 4. _Teks Garis Bawah_
+
 Untuk melakukannya kita bisa menggunakan baik tag <u><u> yang bermakna underline, atau tag <ins><ins> yang bermakna insert.
 contoh :
 ```html
@@ -130,7 +134,8 @@ contoh :
 ```
 
 5. _Teks Dicoret_
-Caranya adalah menggunakan baik tag <s><s> atau strikethrough mau pun tag <del><del> atau delete.
+
+Caranya adalah menggunakan baik tag <s> <s> atau strikethrough mau pun tag <del> <del> atau delete.
 contoh:
 ```html
 <h1>Terkadang kita butuh untuk mencoret <s>sesuatu</s></h1>
@@ -138,8 +143,8 @@ contoh:
   Aku sangat suka mencoret-coret <del>tembok rumah</del> di atas kertas.
 </p>
 ```
-
 6. _Teks Kecil_
+
 Untuk melakukannya kita bisa menggunakan tag <small><small>.
 contoh:
 ```html
@@ -154,6 +159,7 @@ contoh:
 ```
 
 7. _Teks Pangkat_
+
 kita bisa membuat format teks pangkat dengan HTML. Baik pangkat atas mau pun pangkat bawah.
 
 Untuk pangkat atas kita bisa menggunakan tag <sup><sup>, sedangkan pangkat bawah bisa menggunakan tag <sub><sub>.
