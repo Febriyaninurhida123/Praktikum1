@@ -291,26 +291,26 @@ kemudian setelah diperbaiki menjadi seperti ini :
 
 sekarang sudah tidak ada yang eror lagi :)
 
-2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
+2. Apa perbedaan dari tag (<p>) dengan tag (<br>), berikan penjelasannya!
 
 JAWAB :
 
-Tag <p>
+Tag (<p>)
 Tag ini berfungsi untuk memberi perintah paragraf baru pada halaman html, antara baris atau paragraf terbentuk jarak.
 
-Tag ini merupakan tag yang berpasangan, dimulai dengan tag pembuka <p> dan diakhiri dengan tag penutup </p>
+Tag ini merupakan tag yang berpasangan, dimulai dengan tag pembuka <p> dan diakhiri dengan tag penutup (</p>)
 
-Tag <br/>
-Tag <br/>adalah tag tunggal tanpa diawali tag pembuka dan diakhiri tag penutup. Ia berdiri sendiri.
+Tag (<br/>)
+Tag (<br/>)adalah tag tunggal tanpa diawali tag pembuka dan diakhiri tag penutup. Ia berdiri sendiri.
 
-Tag <br/> dituliskan pada kerangka html untuk memberikan perintah "break line", artinya meng intruksikan baris baru.
+Tag (<br/>) dituliskan pada kerangka html untuk memberikan perintah "break line", artinya meng intruksikan baris baru.
 
 Apa beda nya dengan tag paragraf .... ?, bedanya adalah baris baru yang dihasilkan tanpa memberi jarak dengan baris diatasnya.
 
 Jadi perbedaan yang mencolok dari kedua tag ini adalah pada jarak yang terbentuk.
-Kesimpulannya jika hanya ingin membuat baris baru tanpa jarak gunakan tag <br/> , tapi jika ingin membuat baris baru namun memiliki jarak dengan paragraf diatasnya maka bungkuslah paragraf baru tersebut dengan sepasang tag <p> dan </p>.
+Kesimpulannya jika hanya ingin membuat baris baru tanpa jarak gunakan tag (<br/>) , tapi jika ingin membuat baris baru namun memiliki jarak dengan paragraf diatasnya maka bungkuslah paragraf baru tersebut dengan sepasang tag (<p>) dan (</p>).
 
-3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
+3. Apa perbedaan atribut title dan alt pada tag (<img>), berikan penjelasannya!
 
 JAWAB :
 
